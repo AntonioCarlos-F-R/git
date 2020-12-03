@@ -1,0 +1,41 @@
+1. definir nome do user { git config --global user.name "nome aqui "}
+2. definir email do user { git config --global user.email "email aqui "}
+3. definir editor do user {git config --global core.editor vscode}
+[para mostrar todas:  git config --list]
+
+4.git init   incia um repo local
+5.git status  [varredura na pasta mostra o que foi modificado e nao esta adionado na estrutura git]
+6.git add -A   siginifica git adicione tudo que esta fora
+7.git comit -m " comit do repositorio"
+8.git log  mostra todos os comits realizados
+
+9.git reset --soft: ele volta para o commit do codigo mas sem eliminar os dados
+          --mixed: o msm sem estar add
+          --hard: deleta tudo depois daquele codigo passado
+
+10.git branch  mosrta o branch que estamos
+
+11.git branch nome   cria um novo branch
+12.git branch mostra os branchs e em qual voce esta marcado um '*'.
+13.git checkout nomeBranch.   troca de branch
+14.git marge nome_da_branch_puxada   mescla branch
+
+15.git diff mostra todas as alteracoes em todos os arquivos
+16.git diff --name-only  mostrar todos arqivos alterados
+17.git diff nome_arquivo mostra as alteracoes somente deste arquivo
+18.git checkout -- nome_arquivo desfaz tudo que foi alterado
+
+19.git remote add origin https://linkdorepositorio.com
+20. git remote  mostra o git remote add se voce tiver criado
+21.git remote -v   mostar o link com o fech e com o push
+22.git remote rm    deleta o remote
+23.git push -u origin nome_branch   envia o local para o remote
+
+24.git reverte --no-edit  codigo_do_commit
+
+25.git push origin :nome_branch     deleta o branch no hub
+26.git branch -D nome_branch    deleta o branch no local
+
+27.git pull origin nome_branch    puxa dohub para o branch selected
+
+28. git clone https://linkrepositorio.com

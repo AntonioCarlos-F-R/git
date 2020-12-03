@@ -1,0 +1,7 @@
+quando fizer alteracao, para visualizar elas
+cmd: git diff mostra todas as alteracoes em todos os arquivos
+     git diff --name-only  mostrar todos arqivos alterados
+     git diff nome_arquivo mostra as alteracoes somente deste arquivo
+
+
+cmd: git checkout -- nome_arquivo desfaz tudo que foi alterado

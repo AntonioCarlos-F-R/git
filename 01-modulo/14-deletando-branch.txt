@@ -1,0 +1,2 @@
+cmd: git push origin :nome_branch     deleta o branch no hub
+cmd: git branch -D nome_branch    deleta o branch no local

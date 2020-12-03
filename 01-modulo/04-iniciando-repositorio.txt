@@ -1,0 +1,4 @@
+voce vai ate a pasta onde quer criar o repositorio
+e digita no terminal acessando a pasta o cmd: git init
+entao é criada pastas ocultas, desocultando elas voce vera 
+a pasta .git 

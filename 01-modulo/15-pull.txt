@@ -1,0 +1,1 @@
+cmd: git pull origin nome_branch    puxa dohub para o branch selected

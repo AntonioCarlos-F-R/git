@@ -1,0 +1,6 @@
+cmd: git branch nome   cria um novo branch
+cmd: git branch mostra os branchs e em qual voce esta marcado um '*'.
+cmd git checkout nomeBranch.   troca de branch
+
+para puxar comits de uma branch para o master, basta entrar no master
+cmd: git marge nome_da_branch_puxada

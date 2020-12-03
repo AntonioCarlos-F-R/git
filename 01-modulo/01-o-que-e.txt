@@ -1,0 +1,10 @@
+o que é versionamento de codigo:
+{surgiu de 2 prblemas:
+[
+    1. por motivos de bug. E nao podia retornar para antes do bug.
+    2. dividir tarefas . nao tinha como compartilhar o codigo para mais de um programador sem ter
+    certos problemas. E era faz ser muito trabalhoso
+]
+
+
+}

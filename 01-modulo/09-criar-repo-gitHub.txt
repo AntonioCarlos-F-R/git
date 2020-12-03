@@ -1,0 +1,12 @@
+aprender a levar o repositorio do pc para o Hub.
+voce cria uma chave com o gitbash e coloca no seu gitHub a chave de altenticacao
+depois da esse comando de 
+cmd:  git remote add origin https://linkdorepositorio.com
+cmd: git remote  mostra o git remote add se voce tiver criado
+cmd: git remote -v   mostar o link com o fech e com o push
+cmd: git remote rm    deleta o remote
+
+fech: puxa as alteracoes para meu local
+push: leva do local para remoto
+
+cmd: git push -u origin nome_branch   envia o local para o remote

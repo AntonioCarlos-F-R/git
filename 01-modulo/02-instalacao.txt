@@ -1,0 +1,7 @@
+repositorios - sao os projetos criados , sao guardados nos repositorios
+ 
+ passos para instalacao.
+ 1. site do git https://git-scm.com
+ 2. clica em download for seu S.O
+ 3. instalar e verifica pelo cmd o exito com o comando: git --version  
+ se aparecer a versao, ok, instalado

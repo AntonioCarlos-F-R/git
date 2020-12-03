@@ -1,0 +1,10 @@
+configurar o git com as informacoes pessoais
+para que toda alteracao feita seja associado a tal user
+todos os comadando serao om pre fixo :  git
+
+1. definir nome do user { git config --global user.name "nome aqui "}
+2. definir email do user { git config --global user.email "email aqui "}
+3. definir editor do user {git config --global core.editor vscode}
+
+para acessar essas infos: git config user.name || user.email || core.editor
+para mostrar todas:  git config --list

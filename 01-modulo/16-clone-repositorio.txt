@@ -1,0 +1,3 @@
+copia o link do repositorio a ser clonado
+se dirigi ate a pasta onde deseja clonar 
+cmd: git clone https://linkrepositorio.com

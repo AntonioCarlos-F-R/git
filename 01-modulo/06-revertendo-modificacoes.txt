@@ -1,0 +1,7 @@
+cmd: git branch  mosrta o branch que estamos
+
+se voce de o cmd: git commit -am "msg"  voce ao mesmo tempo que adiciona ao git voce tbm comita .
+
+git reset --soft: ele volta para o commit do codigo mas sem eliminar os dados
+          --mixed: o msm sem estar add
+          --hard: deleta tudo depois daquele codigo passado

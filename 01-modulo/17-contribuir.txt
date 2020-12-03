@@ -1,0 +1,2 @@
+fazer um fork é puxar um projeto para seu git 
+pull requeste é o envio das alteracoes do seu fork para o autor 

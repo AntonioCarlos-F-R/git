@@ -1,0 +1,2 @@
+cmd: git reverte --no-edit  codigo_do_commit
+a diferenca com o reset é que o commit continua existindo
